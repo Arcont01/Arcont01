@@ -6,7 +6,7 @@
 const ABOUT_ME = [
    'code' => ['Javascript', 'PHP', 'HTML', 'CSS', 'Java', 'SQL'],
    'technologies' => [
-      'frontEnd': [
+      'frontEnd' => [
          'js' => ["Vue.js"],
          'css' => ["Bootstrap", "SASS"]
       ],
