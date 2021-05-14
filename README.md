@@ -4,7 +4,7 @@
 
 ```php
 const ABOUT_ME = [
-   'code' => ['Javascript', 'PHP', 'HTML', 'CSS', 'Java', 'SQL'],
+   'code' => ['Javascript', 'PHP', 'HTML', 'CSS', 'SQL'],
    'technologies' => [
       'frontEnd' => [
          'js' => ["Vue.js"],
