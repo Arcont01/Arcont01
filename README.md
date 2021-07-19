@@ -1,6 +1,6 @@
 # Hello, Im Arcont01!
 
-- I am a developer in Rooster interactive
+- I am Web Developer
 
 ```php
 const ABOUT_ME = [
