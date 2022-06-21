@@ -1,6 +1,6 @@
 # Hello, Im Arcont01!
 
-- I am Web Developer
+- I'm a web developer
 
 ```php
 const ABOUT_ME = [
