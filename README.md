@@ -7,11 +7,11 @@ const ABOUT_ME = [
    'code' => ['Javascript', 'PHP', 'HTML', 'CSS', 'SQL'],
    'technologies' => [
       'frontEnd' => [
-         'js' => ["Vue.js"],
+         'js' => ["Vue.js", "Nuxt.js"],
          'css' => ["Bootstrap", "SASS"]
       ],
       'backEnd' => [
-         'PHP' => ["Laravel"],
+         'PHP' => ["Laravel", "Symfony"],
          'js' => ["Node"],
          'misc' => ["Bash"]
       ],
