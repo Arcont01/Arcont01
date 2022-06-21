@@ -1,4 +1,4 @@
-# Hello, Im Arcont01!
+# Hello, I'm Arcont01!
 
 - I'm a web developer
 
