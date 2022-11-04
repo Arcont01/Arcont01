@@ -8,7 +8,7 @@ const ABOUT_ME = [
    'technologies' => [
       'frontEnd' => [
          'js' => ["Vue.js", "Nuxt.js"],
-         'css' => ["Bootstrap", "SASS"]
+         'css' => ["Bootstrap", "SASS"],
       ],
       'backEnd' => [
          'PHP' => ["Laravel", "Symfony"],
@@ -16,7 +16,7 @@ const ABOUT_ME = [
          'misc' => ["Bash"]
       ],
       'databases'=> ["MySQL", "PostgreSQL"],
-      'api' => ["GraphQL"]
-   ]
+      'api' => ["GraphQL"],
+   ],
 ];
 ```
